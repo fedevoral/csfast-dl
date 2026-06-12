@@ -1,0 +1,3 @@
+earzs_creditos.wad
+maps/gg_ra_battlefield.res
+maps/gg_ra_battlefield.txt

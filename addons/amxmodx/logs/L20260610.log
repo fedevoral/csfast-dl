@@ -1,0 +1,66 @@
+L 06/10/2026 - 00:01:57: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:01:57: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:01:57: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:01:57: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:01:57: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:01:57: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:10:14: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:10:14: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:10:14: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:10:14: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:10:14: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:10:14: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:14:33: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:14:33: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:14:33: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:14:33: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:14:33: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:14:33: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:22:04: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:22:04: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:22:04: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:22:04: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:22:04: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:22:04: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:32:56: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:32:56: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:32:56: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:32:56: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:32:56: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:32:56: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:32:57: [AMXX] Plugin "csdm_misc.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 00:32:57: [AMXX] Plugin "csdm_protection.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 00:35:51: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 00:35:51: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 00:35:51: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:35:51: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 00:35:51: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 00:35:51: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 00:35:52: [AMXX] Plugin "csdm_misc.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 00:35:52: [AMXX] Plugin "csdm_protection.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 22:42:29: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 22:42:29: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 22:42:30: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 22:42:30: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 22:42:31: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 22:42:32: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 22:42:33: [AMXX] Plugin "csdm_misc.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 22:42:33: [AMXX] Plugin "csdm_protection.amxx" failed to load: Module/Library "csdm_core" required for plugin.  Check modules.ini.
+L 06/10/2026 - 22:51:32: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 22:51:32: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 22:51:32: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 22:51:32: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 22:51:32: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 22:51:32: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 23:22:00: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 23:22:00: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 23:22:00: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 23:22:00: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 23:22:00: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 23:22:00: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/10/2026 - 23:30:39: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/10/2026 - 23:30:39: GameConfig CRC computed server=B6824DBA (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/10/2026 - 23:30:39: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 23:30:39: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/10/2026 - 23:30:39: -------- Mapchange to awp_coco_v1 --------
+L 06/10/2026 - 23:30:39: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat

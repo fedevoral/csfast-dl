@@ -1,0 +1,17 @@
+Sterile - Sniper War
+
+by ikesTRon@hotmail.de 
+sky-textures by Myp3uk
+other textures by Valve
+
+Counter-Terrorists: 
+Prevent the Terrorists
+from reaching their goal.
+
+Terrorists:
+Eliminate the Counter-Terrorist force.
+
+Background:
+There are no hostages and no bombsites in the mission. 
+
+(Select your team to continue)

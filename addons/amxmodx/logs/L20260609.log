@@ -1,0 +1,42 @@
+L 06/09/2026 - 23:44:20: GameConfig CRC computed engine=2C9EDE6B (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:44:20: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:44:20: GameConfig CRC match for game "*" section "*" library "engine" platform "windows" (2C9EDE6B)
+L 06/09/2026 - 23:44:20: GameConfig CRC match for game "*" section "*" library "engine" platform "windows" (2C9EDE6B)
+L 06/09/2026 - 23:44:22: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:44:23: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:45:36: GameConfig CRC computed engine=2C9EDE6B (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:45:36: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:45:36: GameConfig CRC match for game "*" section "*" library "engine" platform "windows" (2C9EDE6B)
+L 06/09/2026 - 23:45:36: GameConfig CRC match for game "*" section "*" library "engine" platform "windows" (2C9EDE6B)
+L 06/09/2026 - 23:45:36: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:45:36: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:49:19: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:49:19: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:49:19: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:49:19: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:49:19: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:49:19: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:49:49: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:49:49: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:49:49: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:49:49: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:49:49: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:49:49: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:51:03: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:51:03: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:51:03: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:51:03: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:51:03: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:51:03: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:53:11: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:53:11: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:53:11: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:53:11: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:53:11: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:53:11: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 06/09/2026 - 23:53:49: GameConfig CRC computed engine=D9A5B505 (D:\cs16server\swds.dll)
+L 06/09/2026 - 23:53:49: GameConfig CRC computed server=6BF63A24 (D:\cs16server\cstrike\dlls\mp.dll)
+L 06/09/2026 - 23:53:49: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:53:49: GameConfig CRC mismatch for game "*" section "*" library "engine" platform "windows" expected 2C9EDE6B got D9A5B505
+L 06/09/2026 - 23:53:49: -------- Mapchange to de_dust2 --------
+L 06/09/2026 - 23:53:49: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
